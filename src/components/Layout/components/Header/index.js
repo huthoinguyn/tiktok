@@ -14,7 +14,6 @@ import Tippy from '@tippyjs/react';
 import Button from '~/components/Button';
 import styles from './Header.module.scss';
 import images from '~/assets/images';
-import { useEffect, useState } from 'react';
 import Menu from '~/components/Popper/Menu';
 import 'tippy.js/dist/tippy.css';
 import { MessageIcon, NotiIcon, UploadIcon } from '~/components/Icons';
